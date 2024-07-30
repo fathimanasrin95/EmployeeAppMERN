@@ -1,0 +1,8 @@
+.home-container {
+    background-image: url('../assets/2759.jpg'); 
+    background-repeat: repeat; 
+    background-size: cover; 
+    background-position: center;
+    min-height: 100vh;
+    display: flex; 
+  }
